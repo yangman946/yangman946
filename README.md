@@ -12,9 +12,7 @@
 
 ## About me
 
-
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yangman946&theme=dark&show_icons=true)
+I make stuff
 
 
 
